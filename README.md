@@ -1,0 +1,1 @@
+Este repositório é destinado ao protótipo de site da startup QB
